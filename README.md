@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio. This repository documents my practical investigations, digital forensics (DFIR) reports, and security analysis labs. My goal is to apply rigorous investigative methodologies to uncover digital evidence, analyze artifacts, and document clear, actionable findings.
 
-🔗 **Connect with me:** [LinkedIn](https:/www.linkedin.com/in/carolinadlsantosr) | [Email](mailto:carolina.delossantos@outlook.com)
+🔗 **Connect with me:** [LinkedIn](https:/www.linkedin.com/in/carolinadlsantosr/) | [Email](mailto:carolina.delossantos@outlook.com)
 
 ---
 
